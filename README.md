@@ -11,6 +11,10 @@ X浏览器 www.xbext.com
 
 
 
+安卓手机 Android
+
+
+
 【 白鲸加速器 】（免费1个月）
 
 https://d02.bjch110.com/static/download/bj/android/v1.45_b45/bj_1000.apk
@@ -24,13 +28,25 @@ https://bitbucket.org/letsgo666/letsgogo/src/main
 
 
 
+苹果手机 IOS
+
+
+
+修改App ID到香港或其他国家，也可以登录共享的Apple ID https://id.chat444.com/
+
+IOS端搜索 白鲨加速，快连VPN 或者 小火箭
+
 
 
 2、Telegram 纸飞机下载
 
 
 
-  官网  telegram.org
+  官网  telegram.org   若自带浏览器打不开，请安装第三方浏览器，如X浏览器 www.xbext.com
+
+
+
+
 
 【 正版 Telegram 】 
 

@@ -42,7 +42,7 @@ IOS端搜索 白鲨加速，快连VPN 或者 小火箭
 
 
 
-  官网  telegram.org   若自带浏览器打不开，请安装第三方浏览器，如X浏览器 www.xbext.com
+  官网  www.telegram.org   若自带浏览器打不开，请安装第三方浏览器，如X浏览器 www.xbext.com
 
 
 

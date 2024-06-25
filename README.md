@@ -9,6 +9,7 @@
 注册免费使用一个月，过期后可以换个邮箱重新注册，开会员速度更稳定。
 
 白鲸加速器 Android版 https://d02.bjch110.com/static/download/bj/android/v1.45_b45/bj_1000.apk
+
 白鲸加速器 Windows版 https://d.bjch110.com/static/download/bj/win/v2.10_b30/bj_1000.zip
 
 **2.毒舌加速器**
@@ -16,6 +17,7 @@
 安装就可以免费使用一个月，过期后可以卸载重新安装，开会员速度更稳定。
 
 毒舌加速器 Android版 https://www.dsvpn2.com/ds13.apk
+
 毒舌加速器 Windows版 https://www.dsvpn2.com/setup.exe
 
 **3.快连加速器**
@@ -23,6 +25,7 @@
 老牌加速器，安装后打开填写ID：140352167 你能多得3天会员。
 
 快连加速器 Android版 https://appshare.onelink.me/7uiT/fa80bb40
+
 快连加速器 Windows版 https://appshare.onelink.me/7uiT/cd934bda
 
 >>苹果手机使用网络加速器VPN
@@ -39,7 +42,9 @@
 以下是国内可直接打开的链接，安全可靠，可放心下载
 
 Telegram 10.14.0 正版 https://github.com/tpyqb/tpyqb/releases
+
 Telegram-X 0.23.7 简化版 https://github.com/tpyqb/tpyqb/releases
+
 Plus Messenger 10.6.1 增强版 https://github.com/tpyqb/tpyqb/releases
 
 **3、太平洋担保 @nbnb**

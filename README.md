@@ -16,6 +16,7 @@
 安装就可以免费使用一个月，过期后可以卸载重新安装，开会员速度更稳定。
 
 毒舌加速器 Android版 https://www.dsvpn2.com/ds13.apk
+
 毒舌加速器 Windows版 https://www.dsvpn2.com/setup.exe
 
 **3.快连加速器**
@@ -23,9 +24,11 @@
 老牌加速器，安装后打开填写ID：140352167 你能多得3天会员。
 
 快连加速器 Android版 https://appshare.onelink.me/7uiT/fa80bb40
+
 快连加速器 Windows版 https://appshare.onelink.me/7uiT/cd934bda
 
 >>苹果手机使用网络加速器VPN
+
 苹果手机需要修改 Apple ID 到香港或其他国家，也可以登录共享的 Apple ID http://id.chat444.com
 使用国外 Apple ID 登录苹果应用商店 App Store 搜索 白鲨加速(免费1月)、快连VPN、小火箭(可连免费机场)
 
